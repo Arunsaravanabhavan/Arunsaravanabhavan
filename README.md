@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/arunkumaart" target="blank"><img src="https://img.shields.io/twitter/follow/arunkumaart?logo=twitter&style=for-the-badge" alt="arunkumaart" /></a> </p>
 
 <img align="right"
-alt="coding" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" height="220"/>
+alt="coding" src="[https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966](https://github.com/Arunsaravanabhavan/Arunsaravanabhavan/blob/main/man_coding.gif)" height="220"/>
 
 
 - 🧑🏻‍💻 Intern @ **Smartshine Tech Systems, Chennai**
