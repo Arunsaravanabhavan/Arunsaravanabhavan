@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋, I'm Arun</h1>
-<h3 align="center">A self-taught programmer, developer and Information technology undergrad.</h3>
+<h3 align="center">A self-taught programmer, developer and Computer Science Postgrad.</h3>
 
 <p align="center">
 <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
