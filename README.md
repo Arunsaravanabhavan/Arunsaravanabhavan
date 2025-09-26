@@ -16,7 +16,8 @@ alt="coding"
 src="https://github.com/Arunsaravanabhavan/Arunsaravanabhavan/blob/main/man_coding.gif" height="220"/>
 
 
-- 🧑🏻‍💻 Intern/Research Assistant @ **Fraunhofer IPA, Germany**
+- 🧑🏻‍💻 Data Analyst/Developer @ **SAP SE, Germany**
+- 🧑🏻‍💻 Ex-Intern/Research Assistant @ **Fraunhofer IPA, Germany**
 - 🔭 I’m currently working on **AI/ML based projects**
 - 🌱 I’m currently learning **Robotics Algorithms and Data Analytics**
 - 👯 I’m looking to collaborate on **open source ML/Data Analytics projects**
